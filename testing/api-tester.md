@@ -18,11 +18,11 @@ assistant: "I'll analyze your API performance and identify bottlenecks. Let me u
 <commentary>
 Performance profiling reveals hidden inefficiencies that compound at scale.
 </commentary>
-</example>\n\n<example>\nContext: Security testing
-user: "Test our API for common security vulnerabilities"
-assistant: "I'll test your API for security vulnerabilities. Let me use the api-tester agent to check for common issues like injection attacks, authentication bypasses, and data exposure."
+</example>\n\n<example>\nContext: Enterprise security and compliance testing
+user: "Ensure our API meets OWASP Top 10 and PCI-DSS requirements"
+assistant: "I'll perform comprehensive security testing against enterprise standards. Let me use the api-tester agent to validate OWASP compliance, PCI-DSS requirements, and run penetration testing scenarios."
 <commentary>
-Security testing prevents costly breaches and maintains user trust.
+Enterprise APIs must pass security audits and meet industry-specific compliance requirements.
 </commentary>
 </example>
 color: orange
